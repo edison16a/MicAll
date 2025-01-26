@@ -1,5 +1,5 @@
 # MicAll
-Here’s the updated script with detailed comments and a GitHub-style description for documentation.
+
 
 ### Script with Comments
 
@@ -144,5 +144,3 @@ The script automates this process for all `.app` files in `/Applications`.
 Granting permissions to all apps may expose sensitive data. Use cautiously and review apps before running the script.
 
 ---
-
-Let me know if you need help setting up or customizing this further! 😊
